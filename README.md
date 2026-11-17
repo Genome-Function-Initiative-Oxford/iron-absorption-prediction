@@ -69,7 +69,7 @@ xgboost 1.7.5 and scikit-learn 1.5.2 are needed to reproduce the reported values
 
 ## Licence
 
-All rights reserved. The code and models are available for inspection and verification of the
+Copyright (c) 2026 ETH Zurich and University of Oxford. All rights reserved. The code and models are available for inspection and verification of the
 published results only; any other use requires written permission (see `LICENSE`).
 
 ## Contact
