@@ -1,0 +1,5 @@
+Analysis,n,Test RMSE,Test MAE,Test R2,Test sMAPE,CV R2 mean,CV R2 SD
+Baseline (full data),5058,0.206,0.16,0.757,0.2,0.722,0.028
+A: extreme values excluded,4957,0.213,0.165,0.715,0.193,0.712,0.014
+B: vitamin C excluded,3783,0.217,0.165,0.699,0.191,0.71,0.015
+C: A and B combined,3744,0.209,0.162,0.719,0.186,0.7,0.009

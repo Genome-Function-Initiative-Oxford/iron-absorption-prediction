@@ -1,0 +1,20 @@
+Group,Subgroup,RMSE,CI lower,CI upper,n
+Overall,Overall,8.01,7.16,8.88,1012
+Route,Meal,6.85,6.13,7.55,743
+Route,Supplement,10.57,8.51,12.64,269
+Study site,Switzerland,8.08,7.1,9.17,827
+Study site,Mexico,7.67,5.0,10.26,43
+Study site,Thailand,8.5,4.16,12.48,37
+Study site,Lebanon,5.57,3.04,7.96,20
+Study site,Haiti,9.15,3.56,13.62,18
+Study site,Morocco,6.88,4.46,8.74,13
+Study site,Benin,13.96,9.47,17.48,11
+Study site,India,5.12,3.37,6.73,28
+Study site,Taiwan,2.66,1.78,3.4,15
+Iron status,Not iron deficient,7.46,6.62,8.22,547
+Iron status,Iron deficient,9.53,7.6,11.66,307
+Iron compound,Ferrous sulfate,8.3,6.99,9.63,595
+Iron compound,Ferric pyrophosphate,3.55,2.8,4.32,162
+Iron compound,Other/combination,7.41,3.82,10.21,43
+Iron compound,Ferrous fumarate,10.55,9.06,11.96,142
+Iron compound,Sodium iron EDTA,7.28,5.59,8.85,70

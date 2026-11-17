@@ -1,0 +1,12 @@
+# Python 3.11
+xgboost==1.7.5
+scikit-learn==1.5.2
+shap==0.49.1
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.17.1
+matplotlib==3.11.2
+seaborn==0.13.2
+xlrd==2.0.2
+openpyxl==3.1.5
+jupyter

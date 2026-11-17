@@ -1,0 +1,17 @@
+Copyright (c) 2026 Nicole U Stoffel, Simone G Riva, Edward Sanders, Kaushik Pratim Das,
+Prashanth Thankachan, Michael B Zimmermann. All rights reserved.
+
+This repository is made publicly available solely to allow the results of the article "Iron absorption
+prediction and individualised oral iron supplementation in premenopausal women: a machine learning model
+development and validation study" (Lancet Haematology, 2026) to be inspected and verified.
+
+No licence is granted to use, copy, modify, merge, publish, distribute, sublicense, or sell the code,
+trained models, or any other content of this repository, in whole or in part, for any purpose, including
+clinical use, without prior written permission from the copyright holders. Requests should be addressed
+to the corresponding author (michael.zimmermann@rdm.ox.ac.uk).
+
+The trained models are research outputs and are not medical devices. They have not been approved for
+clinical decision-making.
+
+THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE CONTENT.

@@ -1,0 +1,10 @@
+# Participant-level data are not distributed (see data/README.md)
+data/*
+!data/README.md
+!data/data_dictionary.csv
+*.xls
+*.xlsx
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

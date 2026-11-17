@@ -1,0 +1,38 @@
+variable,description
+Order,
+Study,Study number referring to the number found in Study list.doc
+Idold,Identity code given to the subjects in the original study.
+Gender,Female
+Age (y),Age in years.
+Ethnicity,Ethnic group of the subject.
+Site,Country in which the study was done.
+Fe absorption (%),Fractional absorption of iron in %.
+Isotope,Isotope used as the tracer
+Meal type,Condensed description of the meal administered.
+Meal or Supplement,If the test compound was consumed with a meal or with water (supplement).
+Fe compound,Iron compound 
+Fe dose,Total iron in mg
+Vitamin C dose,Total vitamin C in mg
+Calcium dose,Total calcium in mg
+Zinc dose,Total zinc in mg
+Polyphenol dose,Total polyphenols in mg
+Phytic acid dose,Total phytic acid in mg
+Meat protein,Whether meat proteins are present 
+Milk protein,Whether milk proteins are present 
+Tea dose,Quantity of tea consumed during one meal in ml.
+GOS dose,Total galactooligosaccharides in g
+C-reactive protein,C-reactive protein level of the subject in mg/l.
+Alpha glycoprotein,Alpha-1 glyco protein of the subject in g/l
+Hep,"Hepcidin (to convert hepcidin-25 from ng/ml to nmol/l divide by 2.789, Peters et al. 2012)"
+Ferritin,Ferritin level of the subject in μg/l.
+Hb,Hemoglobin level of the subject in g/dl.
+BW,Body weight of the subject in kg.
+BH,Body height of the subject in cm.
+BMI,Body mass index of the subject in kg/m2.
+BV,Blood volume of the subject in ml.
+Fe.circ,Circulating iron of the subject in mg.
+sTfR,Serum transferrin of the subject in mg/l.
+MC.last,Date of the last menstrual cycle (MC) beginning.
+MC.freq,Menstrual cycle (MC) duration in days.
+MC.duration,Menses duration in days.
+MC.percentage,"Where the woman is, in %, in her own menstrual cycle (MC) at the day she consumed the meal or supplement."
